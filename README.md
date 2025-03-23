@@ -18,9 +18,13 @@
     <a href="https://github.com/LearningBots79" target="_blank">
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-    <!-- Linkedin Link -->
+    <!-- Link -->
     <a href="https://www.youtube.com/@Learning_Bots" target="_blank">
       <img src=https://img.shields.io/badge/Youtube-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+      <!-- Link -->
+    <a href="https://t.me/learningbots79" target="_blank">
+      <img src=https://img.shields.io/badge/telegram-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=telegram style="margin-bottom: 5px;" />
     </a>
   </div>
 </div>
