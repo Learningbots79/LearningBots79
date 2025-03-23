@@ -23,7 +23,7 @@ I'm an adventurous tech enthusiast with a focus on Python , Web Development, You
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <!-- Linkedin Link -->
-    <a href="https://www.Youtube.com/in/Learning_Bots" target="_blank">
+    <a href="https://www.youtube.com/@Learning_Bots" target="_blank">
       <img src=https://img.shields.io/badge/Youtube-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
   </div>
@@ -35,7 +35,7 @@ I'm an adventurous tech enthusiast with a focus on Python , Web Development, You
 <!-- View count div -->
 <div align="center">
 <a>
-    <img src="https://komarev.com/ghpvc/?username=Raghavalways&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=Learningbots79&style=flat-square">
 </a>
 
 </div>
