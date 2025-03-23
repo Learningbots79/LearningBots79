@@ -1,8 +1,8 @@
 <div align="center">
-<img alt="Coder GIF" height=200 width=200 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Vic3JwNnEzNGJzbWx1NHl0MjNlbWx4dTZwMmkyOGU1MWtudXU1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif" />
+<img alt="Coder GIF" height=400 width=400 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Vic3JwNnEzNGJzbWx1NHl0MjNlbWx4dTZwMmkyOGU1MWtudXU1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif" />
 </div>
 
-<h1 align="center">Hey It's Raghav</h1>
+<h1 align="center">Hey It's Yash</h1>
 
 <div align="center">
 
