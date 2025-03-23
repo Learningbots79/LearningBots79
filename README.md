@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3000&&pause=50&color=f1916d&background=2A2E3425&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Freelancer;UI/UX+and+Graphic+Designer)](https://git.io/typing-svg)
 </div>
 
-I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and the exciting world of AI. Let's connect and dive into the possibilities!
+I'm an adventurous tech enthusiast with a focus on Python , Web Development, Youtube etc!
 
 
 
@@ -19,19 +19,12 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 
   <div align="center">
   <!-- Github link -->
-    <a href="https://github.com/Raghavalways" target="_blank">
+    <a href="https://github.com/LearningBots79" target="_blank">
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <!-- Linkedin Link -->
-    <a href="https://www.linkedin.com/in/Raghavalways" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <!-- Twitter link -->
-    <a href="https://x.com/Raghavalways" target="_blank">
-      <img src=https://img.shields.io/badge/X(twitter)-%232E3440.svg?&style=for-the-badge&logo=x&logoColor=white alt=x(twitter) style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FRaghavalways">
-      <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
+    <a href="https://www.Youtube.com/in/Learning_Bots" target="_blank">
+      <img src=https://img.shields.io/badge/Youtube-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
   </div>
 </div>
