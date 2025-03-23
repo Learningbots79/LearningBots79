@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Coder GIF" height=350 width=550 src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" />
+<img alt="Coder GIF" height=350 width=550 src="https://jmp.sh/s/7yWNaNaHc7haqjls0yIS" />
 </div>
 
 <h1 align="center">Hey It's Raghav</h1>
