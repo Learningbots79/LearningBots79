@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Coder GIF" height=350 width=550 src="https://jmp.sh/s/7yWNaNaHc7haqjls0yIS" />
+<img alt="Coder GIF" height=350 width=550 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Vic3JwNnEzNGJzbWx1NHl0MjNlbWx4dTZwMmkyOGU1MWtudXU1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif" />
 </div>
 
 <h1 align="center">Hey It's Raghav</h1>
